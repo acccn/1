@@ -1,0 +1,2715 @@
+1.srt:
+Thank you.
+
+2.srt:
+Wait.
+
+3.srt:
+Thank you.
+
+4.srt:
+Nàng kinh kiến mà.
+
+5.srt:
+Thank you. Thank you.
+
+6.srt:
+Thank you. I'm going to make a
+
+7.srt:
+I don't know what to say.
+
+8.srt:
+You can choose.
+
+9.srt:
+Mike.
+
+10.srt:
+The training pod.
+
+11.srt:
+Hmm.
+
+12.srt:
+Good to meet you guys.
+
+13.srt:
+Thank you.
+
+14.srt:
+Thank you.
+
+15.srt:
+Thank you.
+
+16.srt:
+Now we'll show Sarah, launching the Sarah bomb.
+
+17.srt:
+Thank you.
+
+18.srt:
+Thank you.
+
+19.srt:
+Thank you.
+
+20.srt:
+Ahoj.
+
+21.srt:
+Thank you.
+
+22.srt:
+Oi.
+
+23.srt:
+Thank you.
+
+24.srt:
+Thank you.
+
+25.srt:
+Thank you.
+
+26.srt:
+I'm going to make a
+
+27.srt:
+Gå inn i fjellet.
+
+28.srt:
+Thank you.
+
+29.srt:
+Takk for ating med.
+
+30.srt:
+Dobrý deň všetkým. Som rada, že sme sa tu všetci stretli na čas. Dnešný program je pomerne nabitý, takže by som chcela, aby sme postupovali podľa plánu. Predtým však, ako začneme. Ako ste strávili tento týždeň?
+
+31.srt:
+Thank you.
+
+32.srt:
+Dobrý deň Jessica. Ja som bol pomerne zaneprásnený, ale aj produktívny. Najmä čo sa týka zmien v ULI. Som mal s klinitou veľa výmenných komunikačných činností.
+
+33.srt:
+Thank you.
+
+34.srt:
+Už som to povedal aj ja. Vývojová časť bola veľmi hektická. V integrácii API sme sa stretli s viac komplikovanými problémami, ako sme očakávali, ale myslím, že sa vďaka tomu posunuli vpred. Chcem ušetriť stratený čas, takže pracujem aj neskoro do noci.
+
+35.srt:
+Thank you.
+
+36.srt:
+Áno, videla som vašu aktualizáciu, Mike. Problém s API dnes určite musíme vyriešiť. Ale predtým, než sa na to pozrieme detelnejšie, poďme si zhrnúť aktuálny stav. Sara, môžeš začať so správou o manažmente projektu?
+
+37.srt:
+Thank you.
+
+38.srt:
+Samozrejme. Z lepšieho pohľadu sme v dobrom postavení vo väčšinu výsledkov. Klinti nám veľmi pozitívne vrácajú spätnú väzbu.
+
+39.srt:
+To je úžasné, ale zároveň to vedie k rozširejšiemu zväčšovaniu v rámci projektu.
+
+40.srt:
+Thank you.
+
+41.srt:
+Veľmi nás tlačia hlavne v oblasti používateľského rozhrania a požiadujú viac funkcií, ako sme sa pôvodne dohodli.
+
+42.srt:
+Thank you.
+
+43.srt:
+S tými sme už niekoľkokrát diskutovali o riadení očakávaní, ale dnes by sme to mali riešiť v formuláli. Nechceme, aby tým bol príliš náchylný.
+
+44.srt:
+Thank you.
+
+45.srt:
+Dobré rozhodnutie. To je niečo, čomu sa musíme venovať. Mike, ako to vyzerá s vývojom?
+
+46.srt:
+Thank you.
+
+47.srt:
+Vývoj ide v poriadku, ale ako som povedal, integrácia API má niekoľko problémov. Niektoré zo starších systémov, s ktorými pracujeme, sa nezhodujú s novou architektúrou. Preto sú niektoré časti pomalšie.
+
+48.srt:
+Nie je to však problém, ktorý by sme nevedeli vyriešiť. Už sme začali s niekoľkými strategiami na vyriešenie. V tomto týždni by som mal byť schopný poskytnúť lepšie aktualizácie.
+
+49.srt:
+Thank you.
+
+50.srt:
+Rozumiem. Zdá sa, že ste obeja veľmi zaneprázdnení.
+
+51.srt:
+Thank you.
+
+52.srt:
+Poďme sa týmto problémom bližšie zaoberať. Skôr ako sa pustíme do konkrétnych detálov, predstavme si účel tejto schôdzky. Poprvé, preskumujeme aktuálny stav projektu.
+
+53.srt:
+Podruhé, riešime prekážky a obavy, ktoré máte. Nakoniec, určíme prioritu ďalšieho sprintu. Je to v poriadku?
+
+54.srt:
+Thank you.
+
+55.srt:
+A no i to w poriadku.
+
+56.srt:
+Thank you.
+
+57.srt:
+Na úpravo časového harmonogramu by mohol chcieť trochu viac času. Možno budeme musieť rozhodnúť o preložení niektorých úloh.
+
+58.srt:
+Thank you.
+
+59.srt:
+Súhlasím, časový harmonogram je veľmi prísny. Môžeme diskutovať o prepustení niektorých funkcií do ďalšieho vydania.
+
+60.srt:
+Thank you.
+
+61.srt:
+Rozumiem. Poďme začať s aktualizáciou projektu. Takže, začneme od všeobecného prehľadu. Sara, môžeš mi povedať zhrnutie spätnej väzby od klienta a problémy, ktorým treba čo najskôr čeliť?
+
+62.srt:
+Thank you.
+
+63.srt:
+Estamos en el reme.
+
+64.srt:
+Thank you.
+
+65.srt:
+Klijent naozaj vrlo dobro reaguje. To je dvosećni meč.
+
+66.srt:
+Thank you.
+
+67.srt:
+Na jednej strane je úžasné, že nám poskytujú včasnú spätnú väzbu. Na druhej strane však pridávajú mnoho nových požiadaviek.
+
+68.srt:
+Thank you.
+
+69.srt:
+Najväčší problém je, že nás nutia znižiť termín na obnovenie používateľského rozhrania. Pôvodne sme sa dohodli, že aktualizáciu dizajnu
+
+70.srt:
+rozdelíme do troch nasledujúcich sprintov termínov. Teraz sa však pýtajú, či môžeme všetko poskytnúť už v nasledujúcom sprinte.
+
+71.srt:
+Thank you.
+
+72.srt:
+Počkaj, hovoria, že by sme mali obnoviť používateľské rozhranie v jednom šprinte?
+
+73.srt:
+Thank you.
+
+74.srt:
+To je veľmi ťažká úloha. Vývojový tím už teraz zaostáva v práci s API a ak pridáme novú integráciu používateľského rozhrania, môže dôjsť k ďalšiemu oneskoreniu.
+
+75.srt:
+Thank you.
+
+76.srt:
+Súhlasím, klientovi sme už predložili tieto obavy, ale tvrdí, že je to nevyhnutné pre ich ďalšiu marketingovú kampaň.
+
+77.srt:
+Thank you.
+
+78.srt:
+Procedujeme sa, či sme slpní splniť túto požiadavku alebo či ju musíme odmietniť.
+
+79.srt:
+Thank you.
+
+80.srt:
+Dobre, rozoberme to. Sara, ako je táto požiadavka dôležitá z hľadiska projektu? Viem, že sú viazané na ich marketingový nátlak, ale ako je to dôležité pre celkové úspešné dokončenie projektu?
+
+81.srt:
+Takk for ating med.
+
+82.srt:
+Podľa toho, čo mi povedali, je to spojené s hlavnou predstavou produktu. Plánujem veľké predstavy do dvoch mesiacov a chcem, aby nové použiteľské rozhranie bolo pripravené na tento termín.
+
+83.srt:
+Thank you.
+
+84.srt:
+Vnímať to, ako musíme mať položku, ale podľa môjho názoru by sme mali byť opatrní.
+
+85.srt:
+Thank you.
+
+86.srt:
+Ak to skúsime urobiť príliš rýchlo a ničo neprejde, môže to mať opačný účinnok.
+
+87.srt:
+Thank you.
+
+88.srt:
+Očakávania klienta sú už veľmi vysoké a ak mu poskytneme niečo, čo nie je dostatočne vyčistené, môžeme vďaka tomu utrpieť dlhodobo.
+
+89.srt:
+Thank you.
+
+90.srt:
+Súhlasím so Sárou. Technicky by sme mohli splniť termín, ale to by znamenalo, že budeme musieť skryť niektoré kroky.
+
+91.srt:
+Thank you.
+
+92.srt:
+V oblasti používateľského rozhrania je to to, kde chceme byť najviac opatrný. Hovoríme o prvom dojme používateľa.
+
+93.srt:
+Thank you.
+
+94.srt:
+Ak budú chyby alebo nedokončené časti, môže to viesť k negatívnej spätnej väzbe a môže dôjsť k ďalšiemu upraveniu.
+
+95.srt:
+Thank you.
+
+96.srt:
+Dôležitá poznámka. Musíme s klientom otvorene diskutovať o tom, čo je realistické. Skôr by som chcela ponúknuť menej a dostať viac. Sara, môžeš napísať klientovi odpoveď, ktorá...
+
+97.srt:
+Thank you.
+
+98.srt:
+Zhrňa rizika zniženia termínu? Chcem, aby si uvedomil dôležitosť pustenia, ale aj zabezpečenia kvality konečného produktu.
+
+99.srt:
+Thank you.
+
+100.srt:
+Estamos reyme.
+
+101.srt:
+Thank you.
+
+102.srt:
+Po tejto schôdzke vytvorím návrh a pred odoslaním ho budem vymenovávať s vami a požiadam ospetnú väzbu.
+
+103.srt:
+Thank you.
+
+104.srt:
+To je logické. V tom čase budem pokračovať v práci na integrácii API, ale je dôležité, aby sme s klientom čo najskôr preštudovali toto. Ak budem musieť upraviť harmonogram, musíme vedieť, ako relocate resources podľa toho.
+
+105.srt:
+Takk for at du så med!
+
+106.srt:
+Dobrý bod. Uistite sa, že dnes dokončíte konečnú komunikáciu. Teraz, čo sa týka práce s API. Mike, môžeš mi vysvetliť problémy, ktorým čelíte a čo potrebujete od ostatných tímov, aby sa veci posunuli vpred?
+
+107.srt:
+Thank you.
+
+108.srt:
+Samozrejme, hlavným problémom, ktorým sa zaoberáme, je kompatibilita medzi novou API a niektorými časťami našich starších systémov.
+
+109.srt:
+Thank you.
+
+110.srt:
+API bol navrhnuté s predstavou modernejšej architektúry, ale keď sa snažíme integrovať s legacy databázov, vznikajú problémy.
+
+111.srt:
+Thank you.
+
+112.srt:
+Proces vyhľadávania dát treba dlhšie ako sme očakávali a je to hlavná prekážka pre výkon aplikácie.
+
+113.srt:
+Thank you.
+
+114.srt:
+Akivel két dobad nevéken.
+
+115.srt:
+Thank you.
+
+116.srt:
+V súčasnosti trvá vyhľadávanie dát o 15 až 20 % dlhšie, ako sme očakávali. Možno sa to nezdá byť veľa, ale keď sa zaoberáme veľkými stodami dát, môže byť pre konzového používateľa výrazné.
+
+117.srt:
+Thank you.
+
+118.srt:
+Dobré novinky sú, že verím, že môžeme optimalizovať dotazy a mechanizmus výrovnávacej pamäte, aby sa zvýšil výkon, ale aj implementácia to môže chcieť trochu času.
+
+119.srt:
+Thank you.
+
+120.srt:
+Kolko czasu?
+
+121.srt:
+Thank you.
+
+122.srt:
+Ak sa budem počas nasledujúceho týždňa môcť zamerať výlučne na to, myslím, že môžem znižiť dopad na výkon aspoň o polovicu. Ak však zároveň budem musieť pracovať aj na UI, môj natlak sa výrazne zvýši. Preto je dôležité, aby sme s klientom jasne vyjasnili, čo je realistické.
+
+123.srt:
+Thank you.
+
+124.srt:
+Rozumiem. Teraz sa zamerajme na zlepšenie výkonu API. Po vyriešení tohto problému sa vráťme k UI. Sarah.
+
+125.srt:
+Poveď klientovi, že je to náš plán a že sme sa zaviazali poskytnúť vysokokvalitný produkt, aj keď to môže vyžadovať niekoľko úprav harmonogramu.
+
+126.srt:
+Thank you.
+
+127.srt:
+Urobím to. Budem to jasne komunikovať.
+
+128.srt:
+Thank you.
+
+129.srt:
+Dobre, teraz sa presunieme k delegácii úlov v ďalšom sprinte. Mike, okrem práce s API, potrebujete ešte niečo naleháva od týmu?
+
+130.srt:
+Thank you.
+
+131.srt:
+Keď budeme pripravení začať QA pre zmeny v API, pravdepodobne budeme potrebať ďalšie testovacie zdroje. Okrem toho, keď budeme integrovať nové prvky používateľského rozhrania, budeme potrebať podporu od týmu front-endu.
+
+132.srt:
+Thank you.
+
+133.srt:
+Teraz sa však zameriam na optimalizáciu backendu.
+
+134.srt:
+Thank you.
+
+135.srt:
+Rozumiem. Sara, aký je stav priestoru v ďalšom sprinte? Môžete rozdeliť zdroje na microtesty?
+
+136.srt:
+Thank you for watching.
+
+137.srt:
+Skontrolujem to. S QA tímom sa v súčasnosti rokuje, ale zdá sa, že sú momentálne zaneprázdnení na jednom projekte. Skontrolujem to ešte raz a dám vám o tom pred nás skôr informácie.
+
+138.srt:
+Thank you for watching!
+
+139.srt:
+Aj jedna alebo dve osoby by boli obrovskou pomocou. Potrebujem ľudí, ktorí spústia regresné testy pri zmenách v API.
+
+140.srt:
+Thank you.
+
+141.srt:
+Rozumiem. Sarach sa teda snaží zabezpečiť QI zdroje. Vtedy, Mike, môžeš začať vytvárať štruktúru potrebných testov?
+
+142.srt:
+Takto, keď QI tým bude pripravený, môžete okamžite začať s ich vykonávaním.
+
+143.srt:
+Thank you.
+
+144.srt:
+Shreniem plán testovania a dnes ho budem vzdielať.
+
+145.srt:
+Thank you.
+
+146.srt:
+Dobre, teraz sa presunieme k obnoveniu používateľského rozhrania. Aj keď sme sa dohodli, že spoločným základem je základný základ,
+
+147.srt:
+Thank you.
+
+148.srt:
+že spoždíme harmonogram klienta, stále musíme pokračovať v tejto oblasti. Sara, ako sa má dizajnový tím?
+
+149.srt:
+Thank you.
+
+150.srt:
+Robie to dobre, ale cítia určitý tlak.
+
+151.srt:
+Thank you.
+
+152.srt:
+S Klinitom spolupracujem na premene wireframe-u a už sú takmer pripávení prepustiť asety vývojovému tímu.
+
+153.srt:
+Ale trochu sa obávajú poču funkcií, ktoré klient stále pridáva. Musíme sa ujistiť, aby to nezostalo.
+
+154.srt:
+Thank you.
+
+155.srt:
+Sou assim.
+
+156.srt:
+Thank you.
+
+157.srt:
+Súhlasím. Rozsiahle zväčšovanie rámca projektuje vždy rizikom. Bude treba to pozorne sledovať a ujistiť sa, že môžeme splniť ich očakávania.
+
+158.srt:
+Mike, keď sa práca s API vyrieši, môžeš začať premýšľať o integrácii UI?
+
+159.srt:
+Thank you for watching!
+
+160.srt:
+Sam odrębiam.
+
+161.srt:
+Thank you.
+
+162.srt:
+S prideleným časom sa problém s backendom vyrieši.
+
+163.srt:
+Thank you.
+
+164.srt:
+Pri implementácii komplikovanejších komponentov používateľského rozhrania možno budem potrebovať pomoc dizajnového tímu.
+
+165.srt:
+Thank you.
+
+166.srt:
+To nie je problém. Dohodneme sa s dizajnermi a ujistíme sa, že pomôžu.
+
+167.srt:
+Thank you.
+
+168.srt:
+Rozumiem. Mike sa najprv zaoberá opravou výkonov API, potom, keď má sa rád čas, vyžaduje pomoc QA týmu.
+
+169.srt:
+Keď sa to dostane do normy, presunieme sa na integráciu UI. Mike, ak by ste predpokladali nejaké prekážky alebo potrebu ďalších zdrojov, vždy nám poskytnite aktuálne informácie.
+
+170.srt:
+Thank you for watching!
+
+171.srt:
+Samozrejme. Teraz sa len zaoberám čistením backendu. Po jeho ukončení by som mal mať lepší prehľad o tom, čo bude potrebné pre prácu s UI.
+
+172.srt:
+Thank you.
+
+173.srt:
+Dobre, ak bude nejaká zmena, vždy o tom budeme informovať klienta.
+
+174.srt:
+Thank you.
+
+175.srt:
+Dúfame, že budú flexibilní, ale po odústaní tohto e-mailu uvidíme, ako na to budú reagovať.
+
+176.srt:
+Thank you.
+
+177.srt:
+Dobrý plán. Príďme k tomu, keď sme na tom. Poďme sa vyskúšať všeobecný priestor. Sarach, v nasledujúcich niekoľkých týždňoch by mohlo dojsť nejakým ďalším prekažkám?
+
+178.srt:
+Thank you.
+
+179.srt:
+Nevyvolá to hneď prekážky, ale je niekoľko vecí, ktoré by sme mali mať na pamäti.
+
+180.srt:
+Hlavne keď začneme distribuovať aktualizáciu používateľského rozhrania, môže dojsť k väčšiemu počtu požiarev.
+
+181.srt:
+Thank you.
+
+182.srt:
+Vždy sa veľmi zameriavajú na používateľskú skúsenosť za branding. Takže možno budeme musieť s ním byť nasledujúci sprintov bližšie za konc.
+
+183.srt:
+Thank you.
+
+184.srt:
+Chceš povedať, že by sme mali očakávať viac zmien z marketingu?
+
+185.srt:
+Thank you.
+
+186.srt:
+И это можно.
+
+187.srt:
+Thank you.
+
+188.srt:
+Už nám niekoľko nápadov pre ďalšiu fádu približili, ale ešte nič oficiálne nie je rozhodnuté.
+
+189.srt:
+Musím byť pripravený a predvídať požiadavky, aby sme neboli prekvapení.
+
+190.srt:
+Thank you.
+
+191.srt:
+Dobre, práve to potrebujeme. Rozumiem tomu, ale musíme pevne upevniť vývoj. Ak budú neustále navrhovať nové nápady, bude ťažké dodržať termín.
+
+192.srt:
+Lens flares
+
+193.srt:
+Skutočne, musíme byť opatrní a správne riadiť. Sarah, môžeš sledovať tento aspekt?
+
+194.srt:
+Ak marketing začne príliš intenzívne tlačiť, možno budeme musieť odporúčiť alebo ich presvedčiť, že počas vývoja nemôžeme urobiť veľké zmeny.
+
+195.srt:
+um
+
+196.srt:
+Budem to sledovať. Už sme si my začali takéto diskusie a uistím sa, že nevinutné požiadavky nás neodvrátia od správnej cesty.
+
+197.srt:
+Thank you.
+
+198.srt:
+Dobre, Mike, ak budeš cítiť, že sa rozsah projektu príliš zväčšuje, hneď nám to povedz. Ak bude potrebné, zvýšime úroveň problemovania.
+
+199.srt:
+Thank you.
+
+200.srt:
+Urobím to, len by som chcel, aby sme počas dvoch, troch ďalších šprintov udržali stabilitu. Nebudem rád, keby nás prekvapili nové zmeny.
+
+201.srt:
+Thank you.
+
+202.srt:
+Skutočne. Špeciálne, keď už sme sa zaoberali problémom s integráciou API.
+
+203.srt:
+Thank you.
+
+204.srt:
+Súhlasím. Ak budeme aktívni, všetko sa podarí.
+
+205.srt:
+Thank you.
+
+206.srt:
+Dobre, vyzerá to, že máme pevný plán. Presunme sa teda k ďalšej téme. Mike, okrem problémov s API, existujú ešte nejaké prekážky, ktoré by mohli oneskoriť vývoj?
+
+207.srt:
+Thank you.
+
+208.srt:
+Jedným z potenciálnych problémov, ktorý sledujeme je zložitosť nových komponentov používateľského rozhrania.
+
+209.srt:
+Thank you.
+
+210.srt:
+Klient požaduje pomerne pokročilé funkcie, najmä dynamické prvky a aktualizácie dat v reálnom čase. V súčasnosti, keď má priorita práce s API, nie je jasné, či bude mať priestor na to.
+
+211.srt:
+Thank you.
+
+212.srt:
+O aké funkcie hovoríte? Môžete mi uvádzať príklady?
+
+213.srt:
+Thank you.
+
+214.srt:
+Samozrejme, jedna z veľkých požiadaviek je, aby sa údaje aktualizovali v reálnom čase bez toho, aby bolo potrebné obnoviť stránku. Teda niečo ako...
+
+215.srt:
+Thank you.
+
+216.srt:
+Dashboard s informačnými aktualizáciami v reálnom čase. Na to je potrebné množstvo výmených komunikačných činností medzi serverom a klientom.
+
+217.srt:
+Thank you.
+
+218.srt:
+To by mohla byť pomerne veľká zmena pre celú architektúru. Hovoril si s klientom o tom,
+
+219.srt:
+Thank you.
+
+220.srt:
+aká dôležitá je táto funkcia pre ispustenie.
+
+221.srt:
+Thank you.
+
+222.srt:
+Hovoria o tejto funkcii ako Nice to have, ale podľa ich tónu si myslím, že neskôr alebo skôr budú chcieť implementovať.
+
+223.srt:
+Môžeme začať s prípravou, ale na implementáciu bude potrebné značné množstvo zdrojov.
+
+224.srt:
+Thank you.
+
+225.srt:
+Tu je potrebné byť opatrný. Ak je to nice to have, tak by sme to mali považovať ako také. Sarah, môže sa s klientom...
+
+226.srt:
+zaoberať, či je táto funkcia absolútne nevyhnutná pre ďalšie vydanie. Pokiaľ nie je nevyhnutná, momentálne nemáme priestor na veľké zmeny v architektúre.
+
+227.srt:
+Thank you.
+
+228.srt:
+Uistím sa, že to zistím. Všimol som si, že klient môže byť o niečo ambicioznejší vo svojich požiadavkách.
+
+229.srt:
+Thank you.
+
+230.srt:
+Skutočne, rád by som sa zaoberal tým, ak by bolo potrebné a nechcem sa príliš oddeliť od základných výsledkov.
+
+231.srt:
+I'm going to make a
+
+232.srt:
+Porozprávajme sa s klientom o tomto probléme. V súčasnosti by sme mali dávať prioritu základným funkciám a keď budeme mať jasné, čo je dosiahnutelné, môžeme znovu prejsť komplexnejšie požiadavky.
+
+233.srt:
+Thank you.
+
+234.srt:
+Teraz, keď sme sa preskúmali priestor a delegáciu úloh, poďme sa zameráť na technické problémy.
+
+235.srt:
+Mike, ste už niekoľkokrát spomenuli problém s integráciou API. Môžete mi bližšie vysvetliť, čo sa deje a ako plánujete problém vyriešiť?
+
+236.srt:
+Løfteslås
+
+237.srt:
+Samozrejme, jadrom problému je interakcia medzi API a legacy databázov. Keď sme prvýkrát navrhovali API,
+
+238.srt:
+tak sme nedostatočne zvážili zložitosť staršej štruktúry databázy. API bolo vytvorené s myšlienkou modernejšej a škálovateľnejšej architektúry.
+
+239.srt:
+Ale samotná databáza je viac statická a nemôže spracovať dynamické dotazy, ako sme očakávali. Výsledkom je, že čas vyhľadávania dát sa zvyšuje a vplyvňuje celkový výkon.
+
+240.srt:
+Thank you.
+
+241.srt:
+Okoľko je to pomalšie? Je to niečo, čo by si všimol koncový používateľ?
+
+242.srt:
+Thank you.
+
+243.srt:
+To je ťažko povedať, lebo to závisí od prípadu použitia. V prípade malých sád dát je rozdiel veľmi malý, iba o sekundu do dve viac.
+
+244.srt:
+V prípade veľkých sád dát je však výraznejší. Pri veľkých dotazoch môže čas vyhľadávania sa zvýšiť až od 20 až 30 %.
+
+245.srt:
+Thank you.
+
+246.srt:
+To je určite dôvod na obavu. Aký je plán na vyriešenie?
+
+247.srt:
+I'm going to make a
+
+248.srt:
+Už som začal s niekoľkými stratégiami optimalizácie. Najprv skúmame, ako rekonstruovať dotazy efektívnejšie.
+
+249.srt:
+V súčasnosti dotazy načítavajú viac dát ako je potrebné, čo zvýšuje nádlak. Myslím, že môžeme skrátiť čas pracovania, ak ohraničíme rozsah dotazov.
+
+250.srt:
+Thank you.
+
+251.srt:
+To vyzerá ako dobrý začiatok. Myslíte si, že tým problém vyriešite? Alebo je ešte niečo viac potrebné?
+
+252.srt:
+Thank you.
+
+253.srt:
+Bude to dobrým začiatkom, ale myslím, že len optimalizácia dotazov nestačí.
+
+254.srt:
+Thank you.
+
+255.srt:
+Ďalšou myšlienkou je implementácia vyrovnávacej pamäte. Ak budeme môcť vyrovnať dáta, ktoré sa častejšie používajú,
+
+256.srt:
+môžeme znišiť počet priamého prístupu k dataváze. To by malo znišiť nátlak.
+
+257.srt:
+Thank you.
+
+258.srt:
+Ako zložitá je táto implementácia?
+
+259.srt:
+Thank you.
+
+260.srt:
+Nie je to nič jednoduché, ale je to možné. Myslím, že na implementáciu a testovanie systému vyrovnávací pamäte budem potrebovať asi týždeň. Keď to bude nastavené, malo by mať veľký vplyv na výkon.
+
+261.srt:
+Thank you.
+
+262.srt:
+To vyzerá slovo na slovo ako očakávané. Existujú nejaké rizika pri implementácii vyrovnávacej pamätie?
+
+263.srt:
+Čo sa týka udržania aktuálnosti vyrovnávacej pamätie pre dáta v reálnom čase.
+
+264.srt:
+Thank you.
+
+265.srt:
+Máš pravdu, aby sme boli opatrení.
+
+266.srt:
+Thank you.
+
+267.srt:
+Hlavne keď sa zaoberáme datami v reálnom čase, ktoré sa neustále menia, môže vyrovnavacia pamätí byť problém.
+
+268.srt:
+Thank you.
+
+269.srt:
+Myslím však, že môžeme zmenšiť väčšinu týchto rizik tým, že zavedieme inteligentnú strategiu neplatnosti.
+
+270.srt:
+Dôležité je, aby sme vyrovnavaciu pamäť používali iba pre dáta, ktoré sa zriedka menia.
+
+271.srt:
+Pre dáta, ktoré vyžadujú aktuálnosť v reálnom čase, úplne preskočíme výrovnavaciu pamäť.
+
+272.srt:
+Thank you.
+
+273.srt:
+To je logické. Máte dôveru, že týmto prístupom vyriešite problém s výkonom?
+
+274.srt:
+Kjell Krona
+
+275.srt:
+mám pomerne velkou důlehu.
+
+276.srt:
+Thank you.
+
+277.srt:
+Samotná optimalizácia dotazov by mala priniesť výrazné zlepšenie a vyrovnávacia pamäť by mala priniesť ďalší pokrok.
+
+278.srt:
+Thank you.
+
+279.srt:
+Nie je to síce koncové riešenie, ale priblíži nás k požadovanému výsledku.
+
+280.srt:
+Budeme musieť dôkladne sledovať systém a ak bude potrebné robiť úpravy, ale všeobecne som optimistický.
+
+281.srt:
+Thank you.
+
+282.srt:
+To je dobré. Čo potrebujeme urobiť, aby tento plán predbiehal?
+
+283.srt:
+Thank you.
+
+284.srt:
+V súčasnosti by som len potreboval povolenie sa zaoberať týmto problémom počas celého nasledujúceho týždňa.
+
+285.srt:
+Thank you.
+
+286.srt:
+Ak budem môcť venovať mu väčšinu času, myslím, že budem môcť skontrolovať problém s výkonom.
+
+287.srt:
+Thank you.
+
+288.srt:
+Po ukončení optimalizácie budeme tiež potrebovať zdroje z QA pre testovanie, ale to už sme hovorili.
+
+289.srt:
+Thank you.
+
+290.srt:
+Учтем, что, если будет готова помощь, то и будут тесты готовы.
+
+291.srt:
+Thank you.
+
+292.srt:
+Dobre, Mike, máš zelenú. Zameraj sa na optimalizáciu back-endu a keď bude stabilné, vráťme sa k UAI.
+
+293.srt:
+Thank you.
+
+294.srt:
+Sarach, povedzte klientovi, že momentálne dávame prioritu výkonu back-endu. Musíme riadiť ich očakávania týkajúce sa harmonogramu UI, kým tento problém nebude vyriešený.
+
+295.srt:
+Thank you.
+
+296.srt:
+Urobím to. Pošlem im aktualizáciu popoludní.
+
+297.srt:
+Thank you.
+
+298.srt:
+Dobre, existujú ešte nejaké technické problémy, ktorými sme sa mali zaoberať?
+
+299.srt:
+Takk for ating med.
+
+300.srt:
+Mám ešte jednu vec na zozname. Nie je to problém, ktorý treba okamžite vyriešiť, ale je to niečo, čo by sme mali mať na pamäti, keď budeme pokračovať.
+
+301.srt:
+Thank you.
+
+302.srt:
+Súčasná infraštruktúra, ktorú používam pre databazu, nebude schopná zvládnuť rozsah, ktorý klient očakáva.
+
+303.srt:
+Thank you.
+
+304.srt:
+Momentálne ešte v poriadku, ale ak budú pokračovať v raste podľa predpokladov, skôr alebo neskôr narazia na prekažku škálovateľnosti.
+
+305.srt:
+Thank you.
+
+306.srt:
+O akom čase hovoríte?
+
+307.srt:
+Thank you.
+
+308.srt:
+Nedá sa to povedať presne, ale ak sa používateľská základňa klienta bude zvyšovať podľa súčasného tempa, možno začne klesať výkon v prebiehu nasledujúcich 6 mesiacov.
+
+309.srt:
+Nie je to naliehavá situácia, ale je to niečo, na čo by sme mali myslieť.
+
+310.srt:
+Thank you.
+
+311.srt:
+Aké sú možnosti na rozšírenie databazy?
+
+312.srt:
+Thank you.
+
+313.srt:
+Existuje niekoľko možností. Jednou z nich je presun na viac škalovateľnú databazu, ktorá rieši...
+
+314.srt:
+Thank you.
+
+315.srt:
+riešenia ako je napríklad Cloud-based system, ktorý môže zvládnuť väčší nadľag. Ďalšou možnosťou
+
+316.srt:
+je skúmanie Sharding. Sharding znamená rozdelenie databazy na menšie a ľahšie spracovať.
+
+317.srt:
+Thank you.
+
+318.srt:
+Spravovateľné fragmenty Obe možnosti sú výkonateľné, ale budú vyžadovať veľké investície času a zdrojov.
+
+319.srt:
+Thank you.
+
+320.srt:
+Nateraz to necháme ako záložný plán, ale udržujeme si to v hlave, keď budeme plánovať budúcnosť.
+
+321.srt:
+Keď budeme mať súčasný systém stabilný, začneme skúmať možnosti na rozšírenie rozsahu.
+
+322.srt:
+Thank you.
+
+323.srt:
+Dobre, začnem skúmať možnosti riešení, aby som bol pripravený, keď príde čas.
+
+324.srt:
+Thank you.
+
+325.srt:
+Dobrý nápad. Existujú ešte nejaké technické problémy, ktoré by sme mali prejsť?
+
+326.srt:
+Thank you.
+
+327.srt:
+V súčasnosti nie. Keď sa optimalizácia začne rozvíjať, budem vám dávať ďalšie správy.
+
+328.srt:
+Peace.
+
+329.srt:
+Ďakujem, Mike. Sarah, ešte niečo predtým, ako pokračujeme?
+
+330.srt:
+Thank you.
+
+331.srt:
+Nie, teraz sa zameriam na to, aby sme spolniali očakávania klienta a aby sme mali predtým všetkú potrebnú podporu.
+
+332.srt:
+Thank you.
+
+333.srt:
+Dobre, presuneme sa teda k ďalšej téme. O harmonogramu projektu a potrebných úpravách na základe súčasných problémov.
+
+334.srt:
+Thank you.
+
+335.srt:
+Takže, ako sme hovorili, sme konfrontovaní s niekoľkými problémy, ktoré môžu ovplyvniť harmonogram projektu.
+
+336.srt:
+Mike sa tvrdo zaoberá problémami s API, ale aby sme mali výkon back-endu v požadovanom stave, budeme potrebovať aspoň ďalší týždeň.
+
+337.srt:
+Sara, podla vašega razhovoru s klientom se zda, že v harmonogram je trošku prestoru.
+
+338.srt:
+Thank you.
+
+339.srt:
+Predbežné rozhovory s nimi sme už mali. Je jasné, že veľmi tužia drža termín.
+
+340.srt:
+Ale myslíš, ak im predstavíme silný dôvod, budú mať nejakú flexibilitu?
+
+341.srt:
+Thank you.
+
+342.srt:
+Váže viac celkovú kvalitu produktu ako presné poslnenie termínu.
+
+343.srt:
+Thank you.
+
+344.srt:
+a všetký musí byť opatrný, ako s ním bude nakomunikovať.
+
+345.srt:
+Løfteslåten
+
+346.srt:
+To má zmysel. A ja nechcem vytvárať dojem, že ich odkladáme, ale zároveň musíme byť realistickí a hádať možnosti, ako splniť ich očakávania bez níženia kvality. Ako by sme mali pristúpovať k týmto rozhovorom?
+
+347.srt:
+Thank you.
+
+348.srt:
+Myslím si, že najlepší prístup je byť úprimným problémom, ktorými sa stretneme a vysvetliť tým, že prioritou je zlepší výkon produktu a vysplňovanie očakávania.
+
+349.srt:
+Thank you.
+
+350.srt:
+Môžeme tiež predložiť upravený harmonogram s určitou rezervou času, aby sme boli pripravení na neočakávané problémy, ale zároveň musíme ujistiť, že robíme všetko, aby sa projekt neodkladal.
+
+351.srt:
+Thank you.
+
+352.srt:
+Súhlasím. Mike, keď bude optimalizácia API ďaleko vylepšená, myslíš, že nám bude harmonogram jasnejší?
+
+353.srt:
+Thank you.
+
+354.srt:
+Áno, myslím, že dokonca tohto týždňa bude mať oveľa ľasnejší prehľad.
+
+355.srt:
+Thank you.
+
+356.srt:
+Ak budem mať výkonové problémy pod kontrolou, môžem sa vrátiť k práci s používateľským rozhraním UI.
+
+357.srt:
+Thank you.
+
+358.srt:
+a začať plánovať za zostávajúce úlohy.
+
+359.srt:
+Thank you.
+
+360.srt:
+Keď túto prvú prekražku prekonáme, budem môcť urobiť presnejšie odhady.
+
+361.srt:
+Thank you.
+
+362.srt:
+Dobre, v ďalšom stretnutí si povieme podrobnejšie o harmonograme. Medzitým, Sarah, by si mohla napísať predbežnú správu pre klienta, ktorá vysvetlí súčasný stav.
+
+363.srt:
+Uistite sa, že zdôraznite, že sa zameriavame na poskytnutie vysokéj kvality produktu a že podnikáme všetky potrebné kroky, aby všetko prebiehalo v hladko.
+
+364.srt:
+Thank you.
+
+365.srt:
+Hneď po tomto stretnutí to urobím. Sprave budem mať pozitívny tón a zdôrazním, že robím strategické rozhodnutia, keď sme zabezpečili najlepšie výsledky.
+
+366.srt:
+Thank you.
+
+367.srt:
+Vynikajúco. Keď Majk jasne zisti zostávajúce úlohy, predstavíme im nový harmonogram. Verím, že si ocenia našu transparentnosť a záujem o kvalitu.
+
+368.srt:
+Thank you.
+
+369.srt:
+Súhlasím, keď im dokážeme, že sa v oblasti výkonu určite zlepšujeme, myslím, že nám porozumia.
+
+370.srt:
+Thank you.
+
+371.srt:
+To je pravda. Okrem toho by sme mali zdôrazniť,
+
+372.srt:
+Thank you.
+
+373.srt:
+Aké zlepšenia? Ako to na to nič bude mať výhody pre koncových užívateľov?
+
+374.srt:
+Thank you.
+
+375.srt:
+Dobrý prístup. Ujistite sa, že všetci sme v súlade s tým, ako budeme komunikovať. Chceme klienta ujistiť.
+
+376.srt:
+Thank you.
+
+377.srt:
+Pre osadní správy klientovi vám odošiel návrh správy. Tak tu budeme všetci vedieť, čo sa deje.
+
+378.srt:
+Thank you.
+
+379.srt:
+Доброе.
+
+380.srt:
+Thank you.
+
+381.srt:
+Teraz sa vráťme k rozhovoru v rámci spoločnosti. Teraz sa vráťme k rozvrhu v rámci spoločnosti.
+
+382.srt:
+Thank you.
+
+383.srt:
+Mike, povedal si, že potrebujete najmenej týždeň na optimalizáciu API. Koľko času si myslíš, že budete potrebovať na dokončenie práce s používateľským rozhraním, keď je API hotové?
+
+384.srt:
+Thank you.
+
+385.srt:
+Predpokladajúce, že ma nič neprekvapí, myslím, že na UI budem potrebovať ďalšie 2-3 týždne.
+
+386.srt:
+Thank you.
+
+387.srt:
+Dizajnový tím už odovzdal väčšinu zdrojov, takže zostáva len ich integrovať a ujistiť sa, že všetko bude hladko fungovať.
+
+388.srt:
+Thank you.
+
+389.srt:
+Samozrejme musíme vypočítať aj čas na testovanie a možné úpravy na základe spätnej väzby od klienta.
+
+390.srt:
+Thank you.
+
+391.srt:
+Dva, tri týždny sa mi zdajú rozumné, ale pre istotu by sme si mali prijať ešte trochu času.
+
+392.srt:
+Z minulosti vieme, že klinické požiadavky na UI sú často veľmi presné, takže by sme sa nemali prekvapiť, keby po prvom zobrazení požadovali sme my.
+
+393.srt:
+I'm going to make a
+
+394.srt:
+Áno, treba si to pamätať. Čím viac spätné vespy od nich dostaneme, tým viac to môže trvať.
+
+395.srt:
+Thank you.
+
+396.srt:
+Ak je možné, že budeme musieť robiť zmeny, myslím, že by sme mali vypočítať najmenej týždeň na to.
+
+397.srt:
+Thank you.
+
+398.srt:
+Súhlasím s pridelením rezervného času. Počítajme teda 3-4 týždne na dokončenie práce s UI,
+
+399.srt:
+vrátanie integrovania a zmien na základe spätnej väzby. Takto si ujistíme, že nebudeme preťažovať plány a budeme mať rezervu. Aký je váš názor?
+
+400.srt:
+Thank you.
+
+401.srt:
+Zdá sa mi to ako dobrý nápad.
+
+402.srt:
+Thank you.
+
+403.srt:
+Myslím, že klienti si ocenia, keď sme realisticky pri plánovaní. Keď budeme s nimi hovoriť, budeme to takto vysvetľovať.
+
+404.srt:
+Thank you.
+
+405.srt:
+Presne tak, lepšie je predvídať menej a dostať viac ako naopak.
+
+406.srt:
+Do konca tohto týždňa vám presne ozdám im stav API a potom budeme môcť v prípade potreby prispôsobiť situáciu.
+
+407.srt:
+Thank you.
+
+408.srt:
+Vynikajúco. Takže optimalizácia API by mala trvať približne ďalší týždeň a na UI budeme potrvať 3-4 týždne.
+
+409.srt:
+Sarah, chcelíme na to, aby sme do zajtrajšieho dňa odoslali správu klientom s touto informáciou.
+
+410.srt:
+Thank you.
+
+411.srt:
+Rád to urobím hneď po tomto srednutí sa tým párom e-mailu a odošlím vám ho, aby ste mi mohli poskytnúť svoje spätné vlasy.
+
+412.srt:
+Thank you.
+
+413.srt:
+Dobre, skôr ako pokračujeme, máme ešte niečo iné, čo by sme mali brať do úvahy týkajúce sa rozvrhu? Niektoré skryté prekážky alebo rizika, o ktorých sme ešte nehovorili?
+
+414.srt:
+Thank you.
+
+415.srt:
+Chcem ešte povedať, že závisí od toho, ako komplexné budú spätné USB klienta, týkajúce sa UI.
+
+416.srt:
+Thank you.
+
+417.srt:
+Možno budeme musieť pridaliť viac zdrojov na ich spracovanie. Ak nám vrátia mnoho zmien, možno to môže prejsť nad ráme z troch až štyroch týždňov.
+
+418.srt:
+Kansai International Airport
+
+419.srt:
+Dobry bok, UI jest trochę problematyczny.
+
+420.srt:
+Thank you.
+
+421.srt:
+Klienti niekedy nedokážu po ne pochopiť dôsledky posledných zmien.
+
+422.srt:
+Keď začneme s implementáciou, musíme im jasne vysvetliť, čo je možné.
+
+423.srt:
+Thank you.
+
+424.srt:
+To je pravda. Musíme byť aktívni v tejto oblasti. Sara, ak budete klientom čo najskôr jasne definovať očakávania, môžete zabraniť tomu, aby mali veľké zmeny priamo pred koncom projektu.
+
+425.srt:
+Thank you.
+
+426.srt:
+To bude určitý súčasť odnošiť rozhovorov. Akceptujeme spätnú väzdu, ale veľké zmeny budeme musieť...
+
+427.srt:
+podrobne hodnotí v rámci možností dát usplnenie. Tým budeme jasne hovoriť.
+
+428.srt:
+Thank you.
+
+429.srt:
+To pomôže, ak všetci budeme...
+
+430.srt:
+Thank you.
+
+431.srt:
+Na tej istej úrovni budeme schopní ľahko spracovať ľubovoľné zmeny.
+
+432.srt:
+Thank you.
+
+433.srt:
+Dobre, zhradme to teda. Mike, tento týždeň sa zameriate na optimalizáciu API. Keď to bude hotové, prejte na prácu UI.
+
+434.srt:
+Zara, starajte sa o komunikáciu s klientom a uistite sa, že rozum je novému rozhrhu a je vedomý rizik v súvislosti s ďalšími spätnými väzbami a zmenami.
+
+435.srt:
+Pre UI plánujeme 3-4 týždne vrátane času na testovanie a úpravy.
+
+436.srt:
+Thank you.
+
+437.srt:
+Toco nada esta noche.
+
+438.srt:
+Thank you.
+
+439.srt:
+Vždy vám oznávim pokrok, ak sa v práci s API niečo zmení, hneď vás o tom informujem. Vynikajúco.
+
+440.srt:
+Prejdeme teda k ďalšej téme. Budúce predpovedie a dlhodobá stratégia.
+
+441.srt:
+Thank you.
+
+442.srt:
+Teraz, keď sme prešli aktuálny rozvrh, chcem urobiť krok dozadu a hovoriť o celkovom výhľade. Ako viete...
+
+443.srt:
+Máme klienta s pomerne ambicionizmým plánmi narast. Musíme začať uvažovať, ako ho môžeme podporiť technologicky a operačne.
+
+444.srt:
+Mike, predtým ste uviedli, že s nami možno narazíme na problémy so škálovanosťou súčasnej infraštruktúre. Môžete to trochu bližšie vysvetliť?
+
+445.srt:
+Thank you.
+
+446.srt:
+Samozrejme. Hlavným problémom je, že súčasná štruktúra databazy je navrhnutá pre oveľa menšie úlohy, ako je to, čo si klient teraz kladie za cieľ.
+
+447.srt:
+Thank you.
+
+448.srt:
+Ako sa používateľská základna bude zväčšovať, očakávame pokles výkonu, ak nejaké zmeny nedôjdu.
+
+449.srt:
+Thank you.
+
+450.srt:
+V súčasnosti systém bez problémov zvláda súčasný nátlak, ale keď sa počet používateľov v nasledujúcom roku zdvojnásoví alebo strojnásoví...
+
+451.srt:
+Thank you.
+
+452.srt:
+Predpokladáme, že môže dôjsť výraznému spomaleniu procesu vyhľadávania a spracovania dát.
+
+453.srt:
+Thank you.
+
+454.srt:
+To určitě třeba do plánu zahrnout.
+
+455.srt:
+Thank you.
+
+456.srt:
+Myslíte si, že by sme museli prekonstruovať celý systém? Alebo je možné, aby sme vykonali menšie postupné zmeny, aby sme vyriešili problémy s uväčšením?
+
+457.srt:
+Thank you.
+
+458.srt:
+To závisí, ako rýchlo sa systém bude škálovať.
+
+459.srt:
+Thank you.
+
+460.srt:
+Ak to bude pomaly, možno budeme môcť postupne optimalizovať súčasnú štruktúru.
+
+461.srt:
+Thank you.
+
+462.srt:
+Nakoniec však budeme musieť uvažovať o väčšej reštruktúre. Jednou možnosťou je presun databázy na cloud-based riešenie. Ďalšou možnosťou je Sharding.
+
+463.srt:
+Teda rozdelenie dát do menších, ľahších spracovateľných častí, ktoré môžeme spracovať paralelne.
+
+464.srt:
+Thank you.
+
+465.srt:
+Koľko by to všetko vyžadovalo práce? Ide o úplný prehľad, alebo je možné to robiť postupne?
+
+466.srt:
+I'm going to make a
+
+467.srt:
+Je možné to implementovať postupne, ale v určitom momente bude potrebné investovať do infraštruktúry. Pre presun do cloud-based riešenia
+
+468.srt:
+Budeme potrebovať začiatočnú štruktúru a testovanie, ale keď to bude hotové, systém sa bude automaticky škálovať podľa potreby.
+
+469.srt:
+Thank you.
+
+470.srt:
+Sharding je trochu zložitejší, pretože budeme musieť reštrukturovať data tak, aby bolo možné ich spracovať paralelne.
+
+471.srt:
+Implementácia bude trvať časť, ale umožní nám lepšie riadenie veľkých množstiev dát.
+
+472.srt:
+Thank you.
+
+473.srt:
+Ako skoro by sme mali začať uvažovať o tom, máme nejakú rezervu času, alebo by sme mali začať hneď teraz?
+
+474.srt:
+Thank you.
+
+475.srt:
+máme momentálne ešte trochu času. Ale myslím, že by sme mali začať plánovať v nasledujúcom čtvrte roku.
+
+476.srt:
+Ak sú predpoklady klienta presné, do konca roka by sme mohli začať zažívať problémy so súčasným systémom. Nesmieme byť neopatrní.
+
+477.srt:
+Thank you.
+
+478.srt:
+Do ahté miery si je klient vedomý o potenciálnych problémoch s rozškáľovateľnou stavou. Nepovedali sme im ešte nič o nich.
+
+479.srt:
+Thank you.
+
+480.srt:
+Neviem presne. V ďalšom strategickom stretnutí musíme tento problém vyriešiť. Pre klienta, ktorý plánuje rýchly rast, je veľmi dôležité pochopiť technické výzvy súvisiace so škálovanosťou. To platí ešte viac, keď plánujeme veľmi rýchly rast.
+
+481.srt:
+Thank you.
+
+482.srt:
+Souhlasím. Začnem pripravovať základnú štruktúru pre vysvetlenie potenciálnych problémov so škalovateľnosťou a budem ho sdielať s nimi ako súčasť ďalšieho projektu.
+
+483.srt:
+Thank you.
+
+484.srt:
+Takto si uvedomia problém a my môžeme začať s týmto hovoriť v skoršom štádiu.
+
+485.srt:
+Thank you.
+
+486.srt:
+To pomôže. Momentálne ešte nemusíme s nimi hlblavo diskutovať o technických detáloch.
+
+487.srt:
+ale musia pochopiť, že súčasná štruktúra má svoje obmedzenia pri škáľovaní.
+
+488.srt:
+Thank you.
+
+489.srt:
+To je pravda. Vníme toto ako súčasť pokračujúceho úsilia zvyšovať budúcnosť produktu.
+
+490.srt:
+Chceme vytvoriť systém, ktorý dokáže vyhovovať očakávanému rastu a na to budeme potrebovať investovať do infraštruktúry.
+
+491.srt:
+I'm going to make a
+
+492.srt:
+Tiež to tak vnímam. Myslím, že klienti budú ochotní prijať tento aktívny prístup. Spôsob ako zabezpečiť toho prístupa.
+
+493.srt:
+Thank you.
+
+494.srt:
+Dobre, začneme teda hneď teraz s plánovaním. Mike, ak by si mohol začať skúmať, či je preškálovanosť lepšie cloud-based riešenie alebo sharding?
+
+495.srt:
+a odhadnúť, koľko času a zdrojov by každý z týchto prístupov vyžadoval. Nezáleží, či to určite rozhodne dnes, ale do nasledujúceho štvrťroka by sme chceli mať hotový plán.
+
+496.srt:
+Thank you.
+
+497.srt:
+Rád to urobím. Začnem s analýzou a v ďalšom stretnutí vám predstavím niekoľko možností.
+
+498.srt:
+Teksting av Nicolai Winther
+
+499.srt:
+Dobre, Sarah si sa predtým spomenuli, že marketing môže hrať dôležitú úlohu v budúcich fázach tohto projektu. Môžete to trochu bližšie vysvetliť?
+
+500.srt:
+Thank you.
+
+501.srt:
+Áno, marketing nám vyhlásil, že plánuje niekoľko veľkých níh, ktorí budú cíľo a očakáva, že náš produkt ich bude podporovať.
+
+502.srt:
+Jednou z týchto iniciatív je rozšírenie platformy o viac funkcií personalizácie pro používateľov. To by mohlo zahraniať integráciu pokročejších analytických funkcií a strojového učenia.
+
+503.srt:
+Thank you.
+
+504.srt:
+To je určite možné, ale predstavuje to výrazný krok v zložitosti. Pokročilejšie analytické funkcie a strojové učenie vyžadujú značné zdroje na spracovanie dát,
+
+505.srt:
+takže budeme musieť na back-ende pripraviť potrebné nástroje. Musíme tiež zohľadniť dôsledky pre ochranu údajov a bezpečnosť.
+
+506.srt:
+Thank you.
+
+507.srt:
+Presne, je dôležité, aby sme v marketingu jasne definovali, čo je v blízkej budúcnosti dosiahnutelné a čo bude potrebovať dlhodobejšie plány.
+
+508.srt:
+Nechceme si ubiť funkcie, ktoré sa v súčasnej infrastruktúre nedajú implementovať.
+
+509.srt:
+Thank you.
+
+510.srt:
+Dobrý bod. Rozhovory s marketingom by mali byť založené na realite. Musíme nájsť rozhováhu medzi ich ambíciami a technickými možnosťami.
+
+511.srt:
+ktoré môžeme ponúknuť. Sara, môžeš sa ujistiť, že sme v súhode s marketingom ešte skôr, ako začnú svoje iniciatívy?
+
+512.srt:
+Thank you.
+
+513.srt:
+Ja to urobím. Dohodím sa reklame s marketníkovým tímom, prejedeme si ich cieľa a uistím sa, že sme všetci na jednej vlne.
+
+514.srt:
+Thank you.
+
+515.srt:
+Ďakujem, Sarah. Cílime na to, aby sme do konca tohto mesiaca jasne definovali problémy so škálovanosťou a stratégiou marketingu.
+
+516.srt:
+Takto budeme mať čas na plánovanie ďalšej fázy projektu. Pred ukončením stretnutia si ešte rýchlo prehľadme aľamé akčné body.
+
+517.srt:
+Mike, v budúcom týždeň sa zamerajte na optimalizáciu API. Keď to bude hotové, prejdite na prácu s UI a cílte sa na 3-4 týždne na integráciu a testovanie.
+
+518.srt:
+Okrem toho skúmajte možnosti riešení problémov so škálovanosťou a v ďalšom stretnutí nám predstavte niekoľko možností. Máte ešte niečo?
+
+519.srt:
+I'm going to make a
+
+520.srt:
+Nie, to je všetko. O pokroku v práci s API vám budem ďalej dávať informácie.
+
+521.srt:
+Vynikajúco.
+
+522.srt:
+Okrem toho, začnite vytvárať základ pre diskusiu o probléme so škálovanosťou a o budúcich marketingových iniciatívach. Rozumiete?
+
+523.srt:
+Thank you.
+
+524.srt:
+Rozumiem. Uistím sa, že klienti sú uvlastniať s našim prístupom a dohodené strať ľudia s marketingovým tímom.
+
+525.srt:
+Thank you.
+
+526.srt:
+Dobre, ja budem sledovať celkový pokrok projektu a snažiť sa zabezpečiť splnenie cieľových bodov a účinné riadenie zdrojov.
+
+527.srt:
+V budúcom týždeň sa stretneme znovu na rýchly prehľad stavu API a spätnej väzby od klienta. Je to pre vás v poriadku?
+
+528.srt:
+Thank you.
+
+529.srt:
+Это в порядку.
+
+530.srt:
+Thank you.
+
+531.srt:
+Продолжение следует...
+
+532.srt:
+Thank you.
+
+533.srt:
+Dobre, všetko sa zdá byť v poriadku. Oba ste si zaslúžili poctu za vašu prácu. Viem.
+
+534.srt:
+že je ešte veľmi veľa práce pred nami, ale ak budeme udržiavať sústredenosť a otvorenú komunikáciu, určite to zvládneme.
+
+535.srt:
+Thank you.
+
+536.srt:
+Sohlasím. Máme dobrý plán, takže ak ho dodržíme, tak to zvládneme.
+
+537.srt:
+Thank you.
+
+538.srt:
+Samozrejme, po odoslaní správim vám všetkým oznámym reakciu klienta.
+
+539.srt:
+Thank you.
+
+540.srt:
+Dobre, pred ukončením ešte skontrolujme, či sme všetky aktuálne úlohy za sebou.
+
+541.srt:
+Thank you.
+
+542.srt:
+Mike, tento týždeň sa musíte zamerať na optimalizáciu API. To je vaša najvyššia priorita. Keď to bude stabilné, prejdite na Integráciu z UI.
+
+543.srt:
+Počítajte s 3 až 4 týždňami vrátane času na spätnú väzbu od klienta a testovanie.
+
+544.srt:
+Thank you.
+
+545.srt:
+To je správne. Momentálne sa zameriam na optimalizáciu API.
+
+546.srt:
+Thank you.
+
+547.srt:
+Dúfam, že to zvládnem. Ak sa niečo neočakávané stane, hneď vám o tom poviem.
+
+548.srt:
+Thank you.
+
+549.srt:
+O polovicu týždňa by som mal viedzieć viac o stave, takže vám v tom čase oznamím aktuálny stav.
+
+550.srt:
+Thank you.
+
+551.srt:
+Dobre Mike, ja budem pokračovať v komunikácii s klientom. Môj cieľ je uistícať, že súhlasia s novým rozhodom.
+
+552.srt:
+a chápu, že hlavnou prioritou je výkon back-endu. Budeme zúraznivať výhody, kvality a stabilitety.
+
+553.srt:
+Thank you.
+
+554.srt:
+Dobrá stratégia sa rách. Ujistíme sa, že klienti pochopia, že malé úpravy rozvrhu sú v ich záujme.
+
+555.srt:
+Chceme sa vyhnúť posledným zmienkam, ktoré by mohli narušiť celkovú integritu produktu.
+
+556.srt:
+Thank you.
+
+557.srt:
+Áno, keď uvidia, že sa v oblasti výkonu vylepšujeme, určite si to ocenia.
+
+558.srt:
+Ak budú mať spomalený backend a zároveň nové zmeny v UI, bude to mať negatívny vplyv na používateľský zážitok. Lepšie je, keď všetko funguje hladko.
+
+559.srt:
+Thank you.
+
+560.srt:
+Súhlasím. Preto sa pokúsim doorganizovať s republikou a prečistím ich budúce plány. Musíme sa ujistiť.
+
+561.srt:
+že ich očakávanie v túto silu na desky, že v rámci na svých môžností a bez preťaženia tým, budem si my hovoriť budúci týždeň a budem na zápomínka hlavne.
+
+562.srt:
+Thank you.
+
+563.srt:
+Vynikajúco. Skúšame predchádzať problémom s predbytočnými požiadavkami od marketingu.
+
+564.srt:
+Thank you.
+
+565.srt:
+a ujistiť sa, že sme všetci na tom istom riade.
+
+566.srt:
+Thank you.
+
+567.srt:
+To je pravda. Ak marketing plánuje implementovať funkcie personalizácie alebo stroje učenie, musíme to začať integrovať do našej dlhodobej stratégie.
+
+568.srt:
+Thank you.
+
+569.srt:
+Nie je možné ich jednoducho pripojiť bez ohľadu na požiatávky backendu.
+
+570.srt:
+Thank you.
+
+571.srt:
+Presne. Funkcie personalizácie zniejú skvelo teoreticky, ale určite prispôsobia tlaku na vývojový a dátový tým.
+
+572.srt:
+Rozhovory s marketingom by mali byť otvorené, ale zároveň realistické. Začneme sa zaoberať tým, čo je teraz potrebné.
+
+573.srt:
+Thank you.
+
+574.srt:
+Uistím sa, že budeme správne riadi očakávania.
+
+575.srt:
+Thank you.
+
+576.srt:
+Marketing sa niekedy zamerová viac na vynikajúce prvky a nedokáže plne pochopiť technické nároky.
+
+577.srt:
+Po potredení aktualizácie pre klienta dohodnem telefóny rozvoja s marketingom.
+
+578.srt:
+Thank you.
+
+579.srt:
+Vynikajúco. Začneme v nasledujúcich týždňoch skúmať problémy so škálovanosťou dlhodobo. Mike.
+
+580.srt:
+Ak by si mohol skúmať a porovnať možnosti cloud-based riešenia a sharding, budeme mať konkrétne údaje, ktoré môžeme predstaviť klientovi, keď príde na to.
+
+581.srt:
+Thank you.
+
+582.srt:
+Áno, začnem so zhromažďovaním informácií. Lepšie je, keď budeme mať pevný plán ešte skôr, než sa budeme musieť zaoberať problému so škalovateľnosťou.
+
+583.srt:
+Thank you.
+
+584.srt:
+To je pravda. Ak sa používateľská základňa klienta bude rýchlo rozširovať, ako očakávajú, musíme byť pripravení s riešením so škálovanosťou čo najskôr. Nemôžeme čakať, kým na nás dôjde tlak.
+
+585.srt:
+Thank you.
+
+586.srt:
+Sigo así.
+
+587.srt:
+Thank you.
+
+588.srt:
+Уистие месежи клиники вея, же активни планове.
+
+589.srt:
+Thank you.
+
+590.srt:
+Pozrieme to v aktualizácii projektu.
+
+591.srt:
+Thank you.
+
+592.srt:
+Dobre, určme si ďalšie kroky. Mike, ty sa budeš zaoberať optimalizáciou backendu a do polovice týždeň nám daj update.
+
+593.srt:
+Sara, ty sa staráš o komunikáciu s klientom a marketingu. V budúcom týždeň sa stretneme znovu na rýchly prehľad. Je to pre vás v poriadku?
+
+594.srt:
+Thank you.
+
+595.srt:
+Je to v poriadku. Do stredy vám pošlem update o API.
+
+596.srt:
+Thank you.
+
+597.srt:
+A ja budem mať pripravené aktualizácie pre klienta a marketing do toho istého času.
+
+598.srt:
+Thank you.
+
+599.srt:
+Vynikajúco. Cielime na ranný čas stredu. Po stretnutí vám pošlám pozvánku do kalendára. Dúfam, že vám to bude všetko.
+
+600.srt:
+že vám to pomôže. Ďakujem vám obom za všetko. Viem, že je to ťažké, ale stále sa k našim cieľom približujeme.
+
+601.srt:
+Thank you.
+
+602.srt:
+Ďakujem, Jessica. V stredu sa znovu porozprávame.
+
+603.srt:
+Thank you.
+
+604.srt:
+Dobre Jessica, dovidenia majte.
+
+605.srt:
+Thank you.
+
+606.srt:
+Dobre, udržujeme stabilná hladu.
+
+607.srt:
+Fusilet
+
+608.srt:
+Takk for ating med.
+
+609.srt:
+I'm going to make a
+
+610.srt:
+Fjellet er i stedet forstått.
+
+611.srt:
+1g gelatin 5g instant dry yeast 1 egg 1g salt mix mix mix mix mix mix
+
+612.srt:
+Følgen
+
+613.srt:
+Fødselskapet
+
+614.srt:
+Fusilet
+
+615.srt:
+Teksting av Nicolai Winther
+
+616.srt:
+Teksting av Nicolai Winther
+
+617.srt:
+Tak som sa rád, že sme sa opäť stretli. Mohli by sme na tieto mítiky častejšie, čo hovoríte?
+
+618.srt:
+Thank you.
+
+619.srt:
+Да, но очитете, бъдето бъде от съсности проспешно.
+
+620.srt:
+Thank you.
+
+621.srt:
+Áno, súhlasím s týmto. Ak sa budeme často stretávať a updejtovať sa o pokroku, bude to prospešné pre náš tým.
+
+622.srt:
+I'm going to make a
+
+623.srt:
+Ako to vyzerá s harmonogramom na budúci čtvrť rok? Pozrel som sa, že...
+
+624.srt:
+je tam ešte jeden klient a s ním budeme musieť prejsť aj backendové riešenie aj frontendové riešenie. Máme tam niečo nové?
+
+625.srt:
+Thank you.
+
+626.srt:
+Práve že vývoj ide v poriadku s týmto novým klientom, má integrácia API tiež nejaké problémy.
+
+627.srt:
+Thank you.
+
+628.srt:
+Niektoré zo starších systémov, ktoré používame, sa nezhodujú s novou architektúrou ako pri našom predchádzajúcom klientovi.
+
+629.srt:
+Thank you.
+
+630.srt:
+Vieme na tento problém nájsť vhodné riešenie?
+
+631.srt:
+I'm going to make a
+
+632.srt:
+Ja by som navrhoval dať im na výber.
+
+633.srt:
+Thank you.
+
+634.srt:
+prejsť na iný systém, čo by si vyžadovalo určitú investíciu času a peňazí z ich strany.
+
+635.srt:
+Thank you.
+
+636.srt:
+Um...
+
+637.srt:
+Thank you.
+
+638.srt:
+Alebo
+
+639.srt:
+Thank you.
+
+640.srt:
+im môžeme navrhnúť, že budeme pracovať ďalej s ich systémom, čo však bude vyžadovať viac času.
+
+641.srt:
+Thank you.
+
+642.srt:
+Takéto zmeny musíme dôkladne prekonzultovať s klientom. Sara, môžem ťa poprosiť o zabezpečenie komunikácie s klientom?
+
+643.srt:
+Thank you.
+
+644.srt:
+Samozrejme, budúci týždeň do piatku
+
+645.srt:
+im pošlom e-mail a následne si s nimi dohodneme
+
+646.srt:
+Thank you.
+
+647.srt:
+rozhovor v takom termíne, v akom to bude ostatne vilovať.
+
+648.srt:
+Thank you.
+
+649.srt:
+To by bolo ideálne. Ak by sme mohli s nimi prekonzultovať tieto problémy osobne, určite by to zlepšilo.
+
+650.srt:
+Thank you.
+
+651.srt:
+náš budúci vývoj.
+
+652.srt:
+Thank you.
+
+653.srt:
+Je treba ale pamätať na to, že tieto zmeny treba implementovať postupne.
+
+654.srt:
+Thank you.
+
+655.srt:
+a taktiež bude treba investovať do infraštruktúry.
+
+656.srt:
+Thank you.
+
+657.srt:
+Budú dve možné riešenia ich problémov a to bude, že sa presunieme na cloud-based riešenie.
+
+658.srt:
+Thank you.
+
+659.srt:
+alebo sa rozhodneme pre Sharding, ktorý je trochu zložitejší a budeme musieť reštrukturovať data tak, aby bolo možné ich spracovať paralelne.
+
+660.srt:
+Thank you.
+
+661.srt:
+Koľko času by nám pravdepodobne takáto implementácia trvala?
+
+662.srt:
+Thank you.
+
+663.srt:
+Odhadujem, že 4 až 5 týždňov.
+
+664.srt:
+Hi! Today I will show you how to make a
+
+665.srt:
+И я в порядке.
+
+666.srt:
+No.
+
+667.srt:
+Thank you.
+
+668.srt:
+4-5 týždňov to je v poriadku, ja si myslím, že to môžeme klientovi takto predostrieť, ale nechajme si určitiť časovú rezervu.
+
+669.srt:
+Thank you.
+
+670.srt:
+Súhlasím s touto časovou rezervou. Ak klient bude pridávať ďalšie požiadavky, môže sa to značne predložiť.
+
+671.srt:
+Thank you.
+
+672.srt:
+Musíme tieto požiadavky dobre prekonzultovať s klientom, nakolko nemusí súhlasiť s týmto zdržaním.
+
+673.srt:
+1.5 kg of pork belly
+
+674.srt:
+Je potrebné, aby sme mu vysvetlili, že tieto zmeny sú potrebné pre lepší vývoj, pre jeho budúcnosť.
+
+675.srt:
+Thank you.
+
+676.srt:
+Je klient oboznamený s tým, aké sú možné zmeny, ktoré dokážeme vykonať?
+
+677.srt:
+Løfteslås
+
+678.srt:
+Pokiaľ viem, zatiaľ od nás dostali iba...
+
+679.srt:
+Thank you.
+
+680.srt:
+predbežné vysvetlenie, ale nie podrobnosti o takýchto zmenách.
+
+681.srt:
+Thank you.
+
+682.srt:
+Chápem. Preto je dôležité, aby sme informovali klienta o našich omedzeniach a aké zmeny vôbec dokážeme vykonať v ich systéme.
+
+683.srt:
+I'm going to make a
+
+684.srt:
+Rozumím.
+
+685.srt:
+Thank you.
+
+686.srt:
+Toto by bylo asi potrebné.
+
+687.srt:
+Thank you.
+
+688.srt:
+dať vedieť ešte pred budúcim piatkom.
+
+689.srt:
+Thank you.
+
+690.srt:
+Do stredy naformulujem e-mail s priebežným zhrnutím.
+
+691.srt:
+Uh...
+
+692.srt:
+Thank you.
+
+693.srt:
+aké zmeny by sme navrhovali vykonať a
+
+694.srt:
+Thank you.
+
+695.srt:
+Koľko času to zaberie? Zúvasíte?
+
+696.srt:
+1.5g Baking Soda
+
+697.srt:
+Stuhasim.
+
+698.srt:
+Thank you.
+
+699.srt:
+Sice sa zdá, že časový harmonogram je veľmi prísny, ale môžeme diskutovať o prepustení niektorých funkcií do ďalšieho vydania.
+
+700.srt:
+Thank you.
+
+701.srt:
+V akých funkciách sa bavíme?
+
+702.srt:
+I'm going to make a
+
+703.srt:
+Bavíme sa o väčšine funkcií v užívateľovskom rozhraní. Tak aby...
+
+704.srt:
+Backend bol dobre spracovaný, ale užívateľské rozhranie nebolo až tak dobre vyvinuté.
+
+705.srt:
+Thank you.
+
+706.srt:
+Mali by sme zvážiť, koľko bude potrebné investovať peniazy a času do týchto zmien. Možno bude potrebné to prekonzultovať aj s ostatnými tými.
+
+707.srt:
+Teksting av Nicolai Winther
+
+708.srt:
+To je pravda. Budeme musieť navrhnúť si stretnutie s marketingovým tímom.
+
+709.srt:
+a so sales teamom, pretože niektoré
+
+710.srt:
+Thank you.
+
+711.srt:
+body tohto riešenia bude pravdepodobne nutné predať klientovi postupne.
+
+712.srt:
+Thank you.
+
+713.srt:
+Jedným z potenciálnych problémov, ktoré sledujem, je zložitosť nových komponentov používateľského rozhrania.
+
+714.srt:
+Klient požaduje pomerne pokročilé funkcie, ktoré ešte nie sme schopní dodať. Napríklad dynamické prvky a aktualizácie dát v reálnom čase.
+
+715.srt:
+Thank you.
+
+716.srt:
+V súčasnosti, keď má priorita a práca s back-endom prioritu, nie je jasné, či bude mať náš tým priestor na toto.
+
+717.srt:
+Thank you.
+
+718.srt:
+V tom prípade budeme musieť kontaktovať aj ostatné týmy, ktoré by nám mohli s týmto problémom pomôcť.
+
+719.srt:
+Thank you.
+
+720.srt:
+Ak by boli kontaktované iné týmy, veľmi by mi to uľahčilo prácu.
+
+721.srt:
+Thank you.
+
+722.srt:
+V tom prípade by sme mali ešte zvážiť ďalšiu časovú rezervu, aby sme všetko stihli čas a klientovi dodali všetky potrebné a pripravené informácie.
+
+723.srt:
+Thank you.
+
+724.srt:
+Presne tak, mali by sme si nechať časovú rezervu, pretože momentálne nevieme, do akej miery sú ostatné týmy vyťažené.
+
+725.srt:
+budeme potrebné pozrieť sa do komplexného plánu.
+
+726.srt:
+Thank you.
+
+727.srt:
+a vidieť v projektovom manažmentovom systéme, že budeme mať
+
+728.srt:
+na to čas a dokedy sa rúba, toto môžeme stíniť.
+
+729.srt:
+Thank you.
+
+730.srt:
+Dobre, takže potrebujeme získať časovú rezervu a kontaktovať ostatné týmy.
+
+731.srt:
+V prvom rade potrebujeme kontaktovať marketingový tím, ale myslím, že by sme mali brať v úvahu aj dizajnerský tím, aby nám dokázali nadizajnovať.
+
+732.srt:
+Thank you.
+
+733.srt:
+konkrétny výzor nášho projektu.
+
+734.srt:
+The
+
+735.srt:
+Dobre, súhlasím s týmto. Avšak v súčasnosti by som potreboval povolenie sa zaoberať týmto problémom počas celého nasledujúceho týždňa.
+
+736.srt:
+Ak budem ja a ďalšie týmy schopní venovať väčšinu nášho času na tento problém,
+
+737.srt:
+Myslím, že budeme môcť kontrolovať problém s UI. Po ukončení optimalizácie budeme tiež potrebovať zdroje z QA pre testovanie, ale o tom sme už hovorili.
+
+738.srt:
+I'm going to make a
+
+739.srt:
+Súhlasím, to je vynikajúci nápad. Máš na to povolanie.
+
+740.srt:
+Thank you.
+
+741.srt:
+Máme ešte nejaké iné problémy, ktoré by nás mohli v budúcnosti zdržať alebo ktoré by sme mali vyriešiť?
+
+742.srt:
+Takk for ating med.
+
+743.srt:
+Mám ešte jednu vec na zozname. Nie je to problém, ktorý treba okamžite riešiť, ale je to niečo, na čo by sme mali mysleť v budúcnosti.
+
+744.srt:
+keď budeme pokračovať s daným projektom. Súčasná infraštruktúra, ktorú používam pre databazu, nebude schopná zvládnuť rozsah, ktorý klient očakáva.
+
+745.srt:
+asi v nasledujúcom roku. Momentálne je to ešte v poriadku, ale ak sa...
+
+746.srt:
+Thank you.
+
+747.srt:
+počet používateľov zvýšiť desatnásobne, bude to mať za následok veľké zniženie rýchlosti načítania.
+
+748.srt:
+Løfteslås
+
+749.srt:
+Toto bude potrebné klientovi predostrieť a navrhnúť riešenia.
+
+750.srt:
+Jedným z nich je teda náklad novéj databázy, druhým, a toto by malo byť navrhnuté ako...
+
+751.srt:
+to je eventuálne lepšie riešenie, je optimalizácia dát v zmysle
+
+752.srt:
+Thank you.
+
+753.srt:
+toho, že staré dáta sa ponechajú v súčasnej databáze a
+
+754.srt:
+pracovné dáta alebo dáta, ktoré sú použené čo najčastejšie, iba tie budú
+
+755.srt:
+prenesené na novú databázu. Tým pádom by klient mal ušetriť nákupené databázy.
+
+756.srt:
+Thank you.
+
+757.srt:
+Obe možnosti sú vykonateľné, ale budú vyžadovať veľké investície času a zdrojov.
+
+758.srt:
+Taktiež existujú ďalšie možnosti. Jednou z nich je presun na cloud-based systém, ktorý môže zvládnuť väčší nátlak.
+
+759.srt:
+Ďalšou možnosťou je Sharding, ktorý znamená rozdelenie databazy na menšie a ľahšie spracovateľné fragmenty.
+
+760.srt:
+Thank you.
+
+761.srt:
+Obe možnosti zneju využiteľne a aplikovateľne. Je však potrebné, aby sme klientovi...
+
+762.srt:
+Thank you.
+
+763.srt:
+Predostrelí tieto návrhy tak, aby dokázal pochopiť všetky následky a požiadavky, ktoré sú toho súčasťou.
+
+764.srt:
+Sarah, vieš zabezpečiť komunikáciu a spracovať e-mail?
+
+765.srt:
+Thank you.
+
+766.srt:
+und halt am dichtesten ausmennen.
+
+767.srt:
+Thank you.
+
+768.srt:
+Áno, ale toto bude už tretí e-mail budúci týždeň, preto toto by som pokiaľ...
+
+769.srt:
+Treba si ujasniť časový harmonogram klientov. Pokiaľ to nesúri, tak toto by som navrhoval...
+
+770.srt:
+Thank you.
+
+771.srt:
+poslať klientovi až o 2 týždne.
+
+772.srt:
+Thank you.
+
+773.srt:
+V poriadku. Mike, myslíš, že nás to cúri, alebo to má ešte čas?
+
+774.srt:
+Thank you.
+
+775.srt:
+Myslím, že nás to nesúri, ale súhlasím so Sarou. Technicky by sme mohli splniť termín, ale prílišná komunikácia s klientom by ho mohla
+
+776.srt:
+by ho mohla zmiast a nevedel by, čo sa vlastne deje.
+
+777.srt:
+Thank you.
+
+778.srt:
+Teoreticky by bolo vhodné spracovať jeden komplexný e-mail, v ktorom by sme navrhli...
+
+779.srt:
+Thank you.
+
+780.srt:
+problémy a riešenia, ktoré sa budú preberať na osobnom stretnutí a požadovať práve osobné stretnutie, aby sme mohli dôkladne prekonsultovať následujúcu budúcnosť.
+
+781.srt:
+Thank you.
+
+782.srt:
+To je logické. V tom čase budeme pokračovať v práci na integrácii API, ale...
+
+783.srt:
+ale je dôležité, aby sme to zhrnuli do jedného e-mailu a s klientom to, čo najskôr preštudovali. Ak budeme musieť upraviť harmonogram, musíme vedieť, ako rozdelíme naše zdroje podľa toho.
+
+784.srt:
+Thank you.
+
+785.srt:
+Výborné, ja súhlasím. Naformulujem teda...
+
+786.srt:
+Thank you.
+
+787.srt:
+do dvoch týždeň naformuje e-mail v zmysle toho, že klient
+
+788.srt:
+pravdepodobne bude musieť zvážiť kúpu novej databázy.
+
+789.srt:
+Avšak závislo si od...
+
+790.srt:
+Thank you.
+
+791.srt:
+počtu momentálne používaných dát, by sme im vedeli pomôcť zredukovať...
+
+792.srt:
+Thank you.
+
+793.srt:
+obsah nové databázy, teda znížiť náklady na to, akú veľkú databázu bude musieť zakúpiť.
+
+794.srt:
+Thank you for watching!
+
+795.srt:
+Mm-hmm.
+
+796.srt:
+To pomôže. Momentálne ešte nemusíme s nimi hlbavo diskutovať o technických detailoch, ale musia pochopiť, že súčasná štruktúra má svoje obmedzenia pri škálovaní.
+
+797.srt:
+Thank you.
+
+798.srt:
+Klient má veľké plány a žiada rýchly rast. Potrebujeme, aby sme pôsobili dojmom, že sme dôslední a staráme sa o nich.
+
+799.srt:
+Thank you.
+
+800.srt:
+Presne pre toto osobné stretnutie by bolo ideálne. Navrhuje do mesiaca.
+
+801.srt:
+navrhnúť ho tak, aby sme tam mohli ísť aj s technickým tímom, pozrieť sa na ich súčasné systémy, ich súčasné databázy.
+
+802.srt:
+nazrieť do nich a zhruba im potom vedieť do niekoľkých dní.
+
+803.srt:
+dať vyhodnotenie, ako by sa dal súčasný systém optimalizovať.
+
+804.srt:
+Thank you.
+
+805.srt:
+Áno, keď uvidia, že sa v oblasti výkonu zlepšujeme, určite si to ocenia.
+
+806.srt:
+Thank you.
+
+807.srt:
+Ak budú mať spomalený backend a zároveň nové zmeny v UI, bude to mať negatívny vplyv na používateľský zážitok. Podľa mňa osobné stretnutie určite pomôže.
+
+808.srt:
+Thank you.
+
+809.srt:
+To je výborný nápad. Analizovať prvotne ich databázu nám určite pomôže eliminovať problémy v budúcnosti.
+
+810.srt:
+Takk for ating med.
+
+811.srt:
+Áno, začnem s zhromažďovaním informácií. Lepšie je, keď budeme mať pevný plán pre našich klientov pre osobné stretnutie.
+
+812.srt:
+Thank you.
+
+813.srt:
+Okay.
+
+814.srt:
+Thank you.
+
+815.srt:
+Áno, stretíme sa teda u klienta do mesiaca.
+
+816.srt:
+Skúsme sa teda aj s technickým streamom spojiť a zistiť, kedy by bolo...
+
+817.srt:
+Thank you.
+
+818.srt:
+od ne si s nimi naplánovať stretnutie.
+
+819.srt:
+Takk for at du så med.
+
+820.srt:
+okay
+
+821.srt:
+Thank you.
+
+822.srt:
+Chcem ešte povedať, že závisí od toho, aké budú spätné väzby od nášho klienta. Ak bude pridávať veľa spätných väzieb,
+
+823.srt:
+je možné, že budeme mať príliš veľa
+
+824.srt:
+Thank you.
+
+825.srt:
+veci na diskutovanie o mesiac.
+
+826.srt:
+Thank you.
+
+827.srt:
+Na spätnú väzbu si potrebujeme rozvrhnúť podrobný harmonogram, aby sme to dokázali včas zvládnuť.
+
+828.srt:
+Potrebujeme takisto aj pomoc od ďalšieho týmu, ktorý by mohol riešiť len tieto dôsledné problémy.
+
+829.srt:
+Komunikáciu necháme na sarách, ale potrebujeme, aby bola veľmi dôsledná, aby sme sa nestracali v požiadavkách klienta.
+
+830.srt:
+Thank you.
+
+831.srt:
+Rozumiem. Spracujem...
+
+832.srt:
+Thank you.
+
+833.srt:
+Jednak možnosti nášho tímu, ktoré zatiaľ predkladáme, navrhujeme a ktoré by sme
+
+834.srt:
+teoreticky vedeli vykonať a tým pádom, kdy sme mohli dostať od klienta spätnú väzbu,
+
+835.srt:
+čo si klient zhruba predstavuje a s akými termínmi dokáže pracovať na základe.
+
+836.srt:
+týchto vyhodnotení, by sme potom mohli na osobnú stretnutí detaľnejšie predstaviť, čo im vieme dodať.
+
+837.srt:
+zhruba za akú cenu a po akom časovom intervale.
+
+838.srt:
+Thank you.
+
+839.srt:
+Áno, treba na to pamätať. Čím viac spätnej rezby od nich dostaneme, tým viac to môže trvať.
+
+840.srt:
+Thank you.
+
+841.srt:
+Je možné, že budeme musieť robiť toľko zmien, že by sme mohli na to potrvať až 3 týždne naviac.
+
+842.srt:
+Thank you.
+
+843.srt:
+To je vynikajúca poznámka. Spätná väzba je pre nás veľmi dôležitá.
+
+844.srt:
+Thank you.
+
+845.srt:
+Budeme musieť prispôsobiť aj naše časové harmonogramy a spojiť sa s ostatnými týmy, aby sme to vedeli dobre rozvrhnúť.
+
+846.srt:
+a podať im adekvátne nápady na zlepšenie ich produktu.
+
+847.srt:
+Fusk
+
+848.srt:
+Máme ešte nejaké iné dotazy alebo problémy, ktoré my potrebujeme čeliť?
+
+849.srt:
+Thank you.
+
+850.srt:
+Chcel len povedať, že teraz ešte máme momentálne menšiu rezervu času.
+
+851.srt:
+ale myslím, že by sme mali začať plánovať aj ďalšie úlohy pre nasledujúci čtvrť rok.
+
+852.srt:
+Klienta presne do konca roka by som mohol začať zažívať problémy so súčasným systémom. Nesmieme byť neopatrní.
+
+853.srt:
+Thank you.
+
+854.srt:
+To je pravda. V rámci budouceho týždňa...
+
+855.srt:
+maximálne budúci dvoch týždňov, by sme mali mať spätnú väzbu od opodného oddelenia.
+
+856.srt:
+kakšni projekti se namreč četirtajo na budoče četiri leta in kakšni projekti se možno predstavljamo.
+
+857.srt:
+Thank you.
+
+858.srt:
+preložia na nasledujúci štúdiu.
+
+859.srt:
+Thank you.
+
+860.srt:
+Potrebujeme si spraviť dôslednú prípravu, aby sme sa nestratili a vedeli vo všetkom postupne nasledovať.
+
+861.srt:
+Thank you.
+
+862.srt:
+Aký je teda postup? V prvom prípade odkomunikujeme tohto klienta.
+
+863.srt:
+aby sme vedeli jeho spätnú väzbu a mohli následne pracovať.
+
+864.srt:
+Thank you.
+
+865.srt:
+na zmenách v požiadavkách, harmonograme a mohli skontaktovať ostatné týmy.
+
+866.srt:
+Thank you.
+
+867.srt:
+Čo nasleduje ďalej?
+
+868.srt:
+Thank you.
+
+869.srt:
+bude potrebné pozrieť sa do nášho interného projektového manažmentového systému a zistiť, či tam boli spísané všetky požiadavky od konkrétnych tímov.
+
+870.srt:
+Toto už teda bude práca pre naše interné riadenie.
+
+871.srt:
+Thank you.
+
+872.srt:
+Áno, keď uvidia, že sa v oblasti výkonu uzlepšujeme, určite si to ocenia. Ak budú mať spomalený systém a nové zmeny, bude to mať negatívny vplyv na ich projekt. Lepšie je, keď všetko funguje dobre.
+
+873.srt:
+I'm going to make a
+
+874.srt:
+Vynikajúci nápad. V tom prípade môžeme na budúcom stretnutí bližšie prekonzultovať následujúci postup.
+
+875.srt:
+Thank you.
+
+876.srt:
+Výborně, já souhlasím.
+
+877.srt:
+I'm going to make a
+
+878.srt:
+Ja súhlasím tiež, začnem so shromažďovaním informácií. Lepšie je, keď budeme mať pevný plán ešte skôr, než sa budeme musieť zaoberať so škálovateľnosťou.
+
+879.srt:
+Thank you.
+
+880.srt:
+Výborne. Ďakujem vám všetkým za vašu tvrdú prácu a za vašu spoluprácu. Vidíme sa na budúci týždeň.
+
+881.srt:
+Thank you.
+
+882.srt:
+Ďakujeme ja, Jessica, za tvoju prítomnosť v tomto stretnutí.
+
+883.srt:
+Takk for at du så med.
+
+884.srt:
+A ja ďakujem všetkým, rád som vás počul a teším sa, keď sa upesretneme.
+
+885.srt:
+Majte sa, dovidenia.
+
+886.srt:
+Za stredu se vidíme. Takže děkujeme, doviděně. Doviděně.
+
+887.srt:
+Thank you.
+
+888.srt:
+Thank you.
+
+889.srt:
+Thank you.
+
+890.srt:
+Thank you.
+
+891.srt:
+Thank you.
+
+892.srt:
+Gå inn på en av de tre stående stående.
+
+893.srt:
+Kjell Krona
+
+894.srt:
+hmm
+
+895.srt:
+Takk for ating med.
+
+896.srt:
+Sinkon.
+
+897.srt:
+I'm going to make a
+
+898.srt:
+We have one more small question.
+
+899.srt:
+Okay.
+
+900.srt:
+One more small recording. Okay. And then that one, only the one people.
+
+901.srt:
+One year and one two years. If you are interested, you can read this page and send it to us. We chat.
+
+902.srt:
+We only need two people. We want to select people from all participants.
+
+903.srt:
+Thank you.
+
+904.srt:
+So we also need to send this sample. Yeah, yeah, yeah.
+
+905.srt:
+Thank you.
+
